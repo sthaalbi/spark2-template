@@ -10,6 +10,7 @@ object Main {
 
     //sql_practice.examples.exec1()
     //sql_practice.exec1.exec1()
-    sql_practice.exec2.exec2()
+//    sql_practice.exec2.exec2()
+    sql_practice.exec3.exec3()
   }
 }
