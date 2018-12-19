@@ -71,7 +71,7 @@ object exec3 {
       .count()
       .orderBy($"count".desc)
       .show(10)
-
+////// Question 7
     toursDF
       .select(explode($"tourTags"), $"tourDifficulty",$"tourPrice")
       .groupBy($"col", $"tourDifficulty")
